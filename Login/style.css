@@ -1,0 +1,24 @@
+.normalTextbox {
+    width: 150px;
+    display: block;
+    margin-bottom: 1px;
+    border: 1px solid #777777
+}
+
+input{
+    width: 150px;
+    display: block;
+    margin-bottom: 1px;
+    border: 1px solid #777777
+}
+
+.errorTextbox{
+    width: 150px;
+    display: block;
+    margin-bottom: 10px;
+    border: 2px solid red
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
